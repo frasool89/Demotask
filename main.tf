@@ -41,10 +41,3 @@ module "vpc" {
                 min_size           = 1
 
                       }
-
-
-
-  
-
-
-

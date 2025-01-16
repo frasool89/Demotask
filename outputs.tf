@@ -13,5 +13,3 @@ output "asg_name"{
     description ="Name of Asg"
     value = module.asg.name
                 }
-
-
