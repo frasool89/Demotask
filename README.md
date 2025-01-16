@@ -1,2 +1,2 @@
 # Demotask
-Create EC2 with ASG in vpc using modular architecture. 
+Create vpc using modular configuration, use subnets of vpc module as output for launching of EC2 using Autoscaling group. 
