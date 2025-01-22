@@ -9,7 +9,7 @@ output "vpc_azs"{
     value = module.vpc.azs
                 }
 
-output "asg_name"{
-    description ="Name of Asg"
-    value = module.asg.name
-                }
+#output "asg_name"{
+   # description ="Name of Asg"
+   # value = module.asg.name
+      #          }
